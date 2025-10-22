@@ -1,0 +1,16 @@
+# Pasta de cache do Python
+__pycache__/
+*.pyc
+
+# Pasta de ambiente virtual (você VAI usar isso no futuro)
+venv/
+.venv/
+env/
+.env
+
+# Pasta de configuração do PyCharm
+.idea/
+
+# Arquivos de log (para não subir seu arquivo de teste)
+*.log
+*.csv
